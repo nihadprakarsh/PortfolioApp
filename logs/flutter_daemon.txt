@@ -1,0 +1,31 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.50.0
+Flutter extension: 3.50.0 (not activated)
+
+App: Visual Studio Code
+Version: 1.72.2
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    FlutterDaemon
+
+Tue Oct 18 2022 [16:52:03 GMT+0530 (India Standard Time)] Log file started
+[4:52:03 pm] [FlutterDaemon] [Info] Spawning C:\Flutter\Flutter Dev\sdks\flutter\bin\flutter.bat with args ["daemon"]
+[4:52:03 pm] [FlutterDaemon] [Info] ..  in C:\Flutter\Flutter Dev\sdks\flutter
+[4:52:03 pm] [FlutterDaemon] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[4:52:03 pm] [FlutterDaemon] [Info]     PID: 3480
+[4:52:03 pm] [FlutterDaemon] [Info] ==> [{"id":"1","method":"emulator.getEmulators"}]
+[4:52:10 pm] [FlutterDaemon] [Info] <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":3892}}]
+[4:52:10 pm] [FlutterDaemon] [Info] ==> [{"id":"2","method":"device.enable"}]
+[4:52:10 pm] [FlutterDaemon] [Info] <== [{"event":"daemon.logMessage","params":{"level":"status","message":"Starting device daemon..."}}]
+[4:52:10 pm] [FlutterDaemon] [Info] <== [{"id":"2"}]
+[4:52:10 pm] [FlutterDaemon] [Info] <== [{"id":"1","result":[{"id":"Pixel_5_API_30","name":"Pixel 5 API 30","category":"mobile","platformType":"android"}]}]
+[4:52:14 pm] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"windows","name":"Windows","platform":"windows-x64","emulator":false,"category":"desktop","platformType":"windows","ephemeral":false,"emulatorId":null,"sdk":"Microsoft Windows [Version 10.0.22000.1098]","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":true,"hardwareRendering":true,"startPaused":true}}}]
+[4:52:14 pm] [FlutterDaemon] [Info] ==> [{"id":"3","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"C:\\Flutter\\todo_firebase_auth\\portfolio_app"}}]
+[4:52:14 pm] [FlutterDaemon] [Info] <== [{"id":"3","result":{"platforms":["linux","macos","windows","ios","android","web"]}}]
+[4:52:15 pm] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"chrome","name":"Chrome","platform":"web-javascript","emulator":false,"category":"web","platformType":"web","ephemeral":false,"emulatorId":null,"sdk":"Google Chrome 105.0.5195.127","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":false,"hardwareRendering":true,"startPaused":true}}}]
+[4:52:15 pm] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"edge","name":"Edge","platform":"web-javascript","emulator":false,"category":"web","platformType":"web","ephemeral":false,"emulatorId":null,"sdk":"Microsoft Edge 106.0.1370.42","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":false,"hardwareRendering":true,"startPaused":true}}}]

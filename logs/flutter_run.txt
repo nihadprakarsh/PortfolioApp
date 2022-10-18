@@ -1,0 +1,27 @@
+[9:45:33 pm]: Spawning C:\Flutter\Flutter Dev\sdks\flutter\bin\flutter.bat with args ["run","--machine","--start-paused","-d","2d30f72f","--devtools-server-address","http://127.0.0.1:9101/","--target","lib\\main.dart"]
+[9:45:33 pm]: ..  in C:\Flutter\todo_firebase_auth\portfolio_app
+[9:45:33 pm]: ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[9:45:33 pm]: PID: 15528
+[9:45:36 pm]: <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":20116}}]
+[9:45:36 pm]: <== [{"event":"app.start","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3","deviceId":"2d30f72f","directory":"C:\\Flutter\\todo_firebase_auth\\portfolio_app","supportsRestart":true,"launchMode":"run"}}]
+[9:45:36 pm]: <== Launching lib\main.dart on Redmi Note 9 Pro in debug mode...
+[9:45:36 pm]: <== [{"event":"app.progress","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3","id":"0","progressId":null,"message":"Running Gradle task 'assembleDebug'...","finished":false}}]
+[9:45:52 pm]: ../../Flutter%20Dev/sdks/flutter/.pub-cache/hosted/pub.dartlang.org/sliding_sheet-0.5.2/lib/src/util.dart:6:18: Warning: Operand of null-aware operation '?.' has type 'WidgetsBinding' which excludes null.
+[9:45:52 pm]: - 'WidgetsBinding' is from 'package:flutter/src/widgets/binding.dart' ('../../Flutter%20Dev/sdks/flutter/packages/flutter/lib/src/widgets/binding.dart').
+  WidgetsBinding.instance?.addPostFrameCallback((_) => callback());
+                 ^
+[9:46:02 pm]: <== [{"event":"app.progress","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3","id":"0","progressId":null,"finished":true}}]
+[9:46:03 pm]: <== √  Built build\app\outputs\flutter-apk\app-debug.apk.
+[9:46:03 pm]: <== [{"event":"app.progress","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3","id":"1","progressId":null,"message":"Installing build\\app\\outputs\\flutter-apk\\app.apk...","finished":false}}]
+[9:46:12 pm]: <== [{"event":"app.progress","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3","id":"1","progressId":null,"finished":true}}]
+[9:46:15 pm]: <== [{"event":"app.debugPort","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3","port":64637,"wsUri":"ws://127.0.0.1:64637/VJDVHQRhOqo=/ws","baseUri":"file:///data/user/0/com.example.portfolio_app/code_cache/portfolio_appIXKDMB/portfolio_app/"}}]
+[9:46:15 pm]: <== [{"event":"app.progress","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3","id":"2","progressId":null,"message":"Syncing files to device Redmi Note 9 Pro...","finished":false}}]
+[9:46:15 pm]: ../../Flutter%20Dev/sdks/flutter/.pub-cache/hosted/pub.dartlang.org/sliding_sheet-0.5.2/lib/src/util.dart:6:18: Warning: Operand of null-aware operation '?.' has type 'WidgetsBinding' which excludes null.
+[9:46:15 pm]: - 'WidgetsBinding' is from 'package:flutter/src/widgets/binding.dart' ('../../Flutter%20Dev/sdks/flutter/packages/flutter/lib/src/widgets/binding.dart').
+  WidgetsBinding.instance?.addPostFrameCallback((_) => callback());
+                 ^
+[9:46:15 pm]: <== [{"event":"app.progress","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3","id":"2","progressId":null,"finished":true}}]
+[9:46:15 pm]: <== [{"event":"app.started","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3"}}]
+[9:46:17 pm]: <== I/e.portfolio_ap(17684): ProcessProfilingInfo new_methods=1005 is saved saved_to_disk=1 resolve_classes_delay=8000
+[9:46:19 pm]: <== Lost connection to device.
+[9:46:20 pm]: <== [{"event":"app.stop","params":{"appId":"91bda1a2-9004-45ca-b56d-2041b57183f3"}}]
